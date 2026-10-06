@@ -2,7 +2,7 @@
 
 ### 🧠 About me
 
-Currently an **Optimization and Artificial Intelligence PhD student** at URJC being part of the [GRAFO](https://grafo.etsii.urjc.es/es/) research group (*Group for Research in Algorithms For Optimization). I am a Mathematics and Computer Science graduate with a Master in Artificial Intelligence research.
+Currently an **Optimization and Artificial Intelligence PhD student** at URJC being part of the [GRAFO](https://grafo.etsii.urjc.es/es/) research group (*Group for Research in Algorithms For Optimization*). I am a Mathematics and Computer Science graduate with a Master in Artificial Intelligence research.
 
 My research focuses on:
 
