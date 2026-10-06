@@ -1,22 +1,10 @@
-# ¡Hola! Soy [Tu Nombre/Usuario] 👋
+# Welcome!
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=flat-square" alt="Profile views" />
-  <a href="https://linkedin.com/in/tu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
+### 👨‍💻 About me
 
----
+Currently an **Optimization and Artificial Intelligence PhD student** at URJC. I am a Mathematics and Computer Science graduate with a Master in Artificial Intelligence research.
 
-### 👨‍💻 Sobre mí
-
-Soy un desarrollador e investigador enfocado en la **optimización combinatoria, el diseño de algoritmos y el análisis de datos**. Me apasiona resolver problemas computacionalmente duros (NP-Hard) y extraer valor real mediante validación estadística rigurosa.
-
-- 🔭 Actualmente trabajando en: **Diseño e implementación de metaheurísticas (VNS, RLS)** para el problema de $K$-Dominación en grafos.
-- 🌱 Profundizando en: **Computación paralela/multiprocesamiento** y análisis estadístico no paramétrico.
-- 👯 Busco colaborar en: Proyectos open-source sobre optimización matemática, algoritmos estocásticos o herramientas de ciencia de datos.
-- ⚡ Un dato curioso: Un algoritmo heurístico sin una buena validación estadística es como un coche deportivo sin velocímetro.
+My focus lies on **combinatorial optimization problems, algorithms design and data analysis**. My research focus on solving **NP-Hard problems** obtaining real value out of them by a rigorous **statistical validation**.
 
 ---
 
