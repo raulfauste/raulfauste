@@ -1,12 +1,19 @@
-# Welcome!
+# Welcome to my page!
 
-### 👨‍💻 About me
+### About me
 
 Currently an **Optimization and Artificial Intelligence PhD student** at URJC. I am a Mathematics and Computer Science graduate with a Master in Artificial Intelligence research.
 
-My focus lies on **combinatorial optimization problems, algorithms design and data analysis**. My research focus on solving **NP-Hard problems** obtaining real value out of them by a rigorous **statistical validation**.
+My research lies on **combinatorial optimization problems, algorithms design and data analysis**. My research focus on solving **NP-Hard problems** obtaining real value out of them by a rigorous **statistical validation**.
 
+- **Combinatorial optimization problems**
+- **NP-Hard problems**
+- **Algorithms design**
+- **Data analysis**
+- **Statistical validation**
 ---
+
+I am also a competitive programming enthusiast. I have been a contestant along my university years participating in several international (SWERC 2022-2023), national (AdaByron 2023-2025) and regional contests (AdaByron Madrid 2021-2025). My profiles among the main competitive programming judges are listed below.
 
 ### 🛠️ Stack Tecnológico y Herramientas
 
@@ -34,17 +41,3 @@ My focus lies on **combinatorial optimization problems, algorithms design and da
 | **[Statistical Validation Suite](link_a_tu_repo)** | Scripts automatizados para pruebas de normalidad (Shapiro-Wilk) y contrastes de hipótesis no paramétricos (Wilcoxon). | `R`, `ggplot2` |
 | **[Graph Parser Engine](link_a_tu_repo)** | Motor de procesamiento rápido para lectura y estandarización de grafos densos y dispersos indexados desde bases de datos externas. | `Java`, `I/O Streams` |
 
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</div>
